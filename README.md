@@ -146,16 +146,5 @@ Two modes:
   * Perfect circular orbits
   * Even satellite spacing
 
-* Visualization scale prioritizes orbital clarity over communication range extremes
-
-
-## 🛠️ Future Improvements
-* Zoom modes (orbit vs. comm range)
-
-
 ## 🤝 Contributing
 Contributions are welcome!
-
-Ideas:
-* Improve UI/UX
-* Optimize visualization
