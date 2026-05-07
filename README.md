@@ -79,8 +79,8 @@ Built with [**CustomTkinter**](https://github.com/TomSchimansky/CustomTkinter) +
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ksp-relay-planner.git
-cd ksp-relay-planner
+git clone https://github.com/rpwschmidt/KSP-Relay-Network-Planner.git
+cd KSP-Relay-Network-Planner
 ```
 
 ### 2. Install dependencies
