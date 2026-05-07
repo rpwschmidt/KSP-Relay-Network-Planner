@@ -1,13 +1,13 @@
 # 🚀 KSP Relay Network Planner
 A visual planning tool for designing relay satellite networks in *Kerbal Space Program (KSP)*.
 
-This application helps you determine satellite configurations around celestial bodies, taking into account communication range, signal strength, orbital mechanics, and antenna configurations, all while visualizing the result in real time.
+This **Python** application helps you determine satellite configurations around celestial bodies, taking into account communication range, signal strength, orbital mechanics, and antenna configurations, all while visualizing the result in real time.
 
 ## Project Goal
 
 Designing relay networks in KSP can be tough and time-consuming, especially for beginners. This tool aims to:
 * Simplify planning of relay constellations
-* Provide **accurate orbital calculations**
+* Provide accurate orbital calculations
 * Visualize satellite placement and communication links
 
 
