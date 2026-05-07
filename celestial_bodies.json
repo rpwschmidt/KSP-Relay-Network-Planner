@@ -1,0 +1,155 @@
+{
+    "Kerbol": {
+        "r_body": 261600,
+        "grav_param": 1.1723328e+18,
+        "sync_orbit_radius": 1769645.2864911,
+        "soi": 1e+20,
+        "has_atmosphere": true,
+        "atmosphere_height": 600,
+        "color": "#e9c75a"
+    },
+    "Moho": {
+        "r_body": 600,
+        "grav_param": 168609380000.0,
+        "sync_orbit_radius": 0,
+        "soi": 9646.663,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#877f7d"
+    },
+    "Eve": {
+        "r_body": 700,
+        "grav_param": 3531600000000.0,
+        "sync_orbit_radius": 11028.472087012,
+        "soi": 85109.365,
+        "has_atmosphere": true,
+        "atmosphere_height": 90,
+        "color": "#803b7c"
+    },
+    "Gilly": {
+        "r_body": 13,
+        "grav_param": 8289449.8,
+        "sync_orbit_radius": 55.13815091369,
+        "soi": 83559.286,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#dca1a1"
+    },
+    "Kerbin": {
+        "r_body": 600,
+        "grav_param": 3531600000000.0,
+        "sync_orbit_radius": 3463.3340594888,
+        "soi": 83559.286,
+        "has_atmosphere": true,
+        "atmosphere_height": 70,
+        "color": "#3b7bd6"
+    },
+    "Mun": {
+        "r_body": 200,
+        "grav_param": 65138398000.0,
+        "sync_orbit_radius": 0,
+        "soi": 2229.5591,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#9a9a9a"
+    },
+    "Minmus": {
+        "r_body": 60,
+        "grav_param": 1765800000.0,
+        "sync_orbit_radius": 417.9408652496,
+        "soi": 2187.4284,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#b6f0c2"
+    },
+    "Duna": {
+        "r_body": 320,
+        "grav_param": 301363210000.0,
+        "sync_orbit_radius": 3199.9999101376,
+        "soi": 47921.949,
+        "has_atmosphere": true,
+        "atmosphere_height": 50,
+        "color": "#B7410E"
+    },
+    "Ike": {
+        "r_body": 130,
+        "grav_param": 18568369000.0,
+        "sync_orbit_radius": 0,
+        "soi": 1049.5989,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#9a9a9a"
+    },
+    "Dres": {
+        "r_body": 138,
+        "grav_param": 21484489000.0,
+        "sync_orbit_radius": 870.24443996802,
+        "soi": 32832.84,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#b9bbb6"
+    },
+    "Jool": {
+        "r_body": 6000,
+        "grav_param": 282528000000000.0,
+        "sync_orbit_radius": 21010.461350651,
+        "soi": 2455985.2,
+        "has_atmosphere": true,
+        "atmosphere_height": 200,
+        "color": "#61a720"
+    },
+    "Laythe": {
+        "r_body": 500,
+        "grav_param": 1962000000000.0,
+        "sync_orbit_radius": 0,
+        "soi": 3723.6458,
+        "has_atmosphere": true,
+        "atmosphere_height": 50,
+        "color": "#534d8a"
+    },
+    "Vall": {
+        "r_body": 300,
+        "grav_param": 207481500000.0,
+        "sync_orbit_radius": 0,
+        "soi": 2406.4014,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#4d5e74"
+    },
+    "Tylo": {
+        "r_body": 600,
+        "grav_param": 2825280000000.0,
+        "sync_orbit_radius": 0,
+        "soi": 10856.518,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#e4e4e4"
+    },
+    "Bop": {
+        "r_body": 65,
+        "grav_param": 2486834900.0,
+        "sync_orbit_radius": 0,
+        "soi": 1221.0609,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#462617"
+    },
+    "Pol": {
+        "r_body": 44,
+        "grav_param": 721702080.0,
+        "sync_orbit_radius": 0,
+        "soi": 1042.1389,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#757959"
+    },
+    "Eeloo": {
+        "r_body": 210,
+        "grav_param": 74410815000.0,
+        "sync_orbit_radius": 893.69089065809,
+        "soi": 119082.94,
+        "has_atmosphere": false,
+        "atmosphere_height": 0,
+        "color": "#ffffff"
+    }
+}

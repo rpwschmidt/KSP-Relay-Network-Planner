@@ -1,0 +1,34 @@
+{
+    "Communotron 16": {
+        "relay_capable": false,
+        "rating": 500
+    },
+    "Communotron DTS-M1": {
+        "relay_capable": false,
+        "rating": 2000000
+    },
+    "Communotron HG-55": {
+        "relay_capable": false,
+        "rating": 15000000
+    },
+    "Communotron 88-88": {
+        "relay_capable": false,
+        "rating": 100000000
+    },
+    "HG-5 High Gain Antenna": {
+        "relay_capable": true,
+        "rating": 5000
+    },
+    "RA-2 Relay Antenna": {
+        "relay_capable": true,
+        "rating": 2000000
+    },
+    "RA-15 Relay Antenna": {
+        "relay_capable": true,
+        "rating": 15000000
+    },
+    "RA-100 Relay Antenna": {
+        "relay_capable": true,
+        "rating": 100000000
+    }
+}
