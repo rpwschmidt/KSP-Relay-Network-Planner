@@ -128,6 +128,10 @@ class RelayNetworkPlanner:
         r_sync = celestial_body["sync_orbit_radius"]    # Geostationary orbit radius (km)
         use_sync = (r_sync > 0) and geostationary
 
+        # ----- Geostationary -----
+        if not r_sync > 0 and geostationary:
+            messages.append("⚠️ Geostationary orbit not available for this body. Defaulting to ideal orbit mode.")
+
         # ----- Antenna -----
         if not self.antennas[relay_antenna]["relay_capable"]:
             messages.append("⚠️ Satellite antenna is not relay capable!")
