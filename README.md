@@ -1,7 +1,7 @@
 # 🚀 KSP Relay Network Planner
 A visual planning tool for designing relay satellite networks in *Kerbal Space Program (KSP)*.
 
-This **Python** application helps you determine satellite configurations around celestial bodies, taking into account communication range, signal strength, orbital mechanics, and antenna configurations, all while visualizing the result in real time.
+This **Python** application helps you determine satellite configurations around celestial bodies, taking into account communication range, signal strength, orbital mechanics, and antenna configurations.
 
 ## Project Goal
 
@@ -48,7 +48,7 @@ Designing relay networks in KSP can be tough and time-consuming, especially for 
 * Helps with **even satellite deployment**
 
 ### 📊 Visualization
-* Real-time rendering using [matplotlib](https://github.com/matplotlib/matplotlib)
+* Rendering using [matplotlib](https://github.com/matplotlib/matplotlib)
 * Shows:
   * Planet and atmosphere
   * Minimum / maximum / ideal orbit
@@ -88,7 +88,7 @@ cd KSP-Relay-Network-Planner
 pip install -r requirements.txt
 ```
 
-If you don't have a requirements file yet, install manually:
+Or install manually:
 ```bash
 pip install customtkinter matplotlib numpy
 ```
